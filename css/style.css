@@ -149,7 +149,7 @@ h2 {
     right: 30px;
     border: medium solid white;
     border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent white;
+    border-color: transparent transparent transparent rgb(245, 241, 241);
 }
 
 
